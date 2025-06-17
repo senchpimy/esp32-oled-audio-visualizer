@@ -28,7 +28,7 @@ Este proyecto implementa un visualizador de espectro de audio en una pantalla OL
 
 
 
-## 🧪 Cómo funciona
+## Cómo funciona
 
 * Se inicializa el micrófono I2S para capturar muestras de audio.
 * Se realiza una FFT sobre 512 muestras y se renderizan las magnitudes en 16 barras.
@@ -37,12 +37,8 @@ Este proyecto implementa un visualizador de espectro de audio en una pantalla OL
 
 ---
 
-## 📷 Vista previa
+## Vista previa
 
 ![Demo](./video.gif)
 
 ---
-
-## ⚖️ Licencia
-
-Este proyecto se distribuye bajo la licencia MIT. Puedes usarlo, modificarlo y compartirlo libremente.
